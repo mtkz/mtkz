@@ -39,8 +39,6 @@
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571.svg?style=plastic&logo=kibana&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=plastic&logo=go&logoColor=white)
 
 ---
 
